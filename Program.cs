@@ -24,5 +24,9 @@ namespace ConsoleApp74
             }
             return number;
         } 
+        static int VozvedenieKub(int number)
+        {
+            return number*number*number
+        }
     }
 }
