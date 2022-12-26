@@ -15,6 +15,8 @@ namespace ConsoleApp74
         }
         static int VozvedenieNumber(int number, int stepen)
         {
+            int asd;
+            int newDSA;
             int localnumber = number;
             for(int i = 0; i < stepen; i++)
             {
